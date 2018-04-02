@@ -1,0 +1,13 @@
+.delform{
+    text-align: centre;
+    margin: auto auto;
+
+}
+.form-login input {
+    margin:10px;
+    width: 300px;
+    padding: 15px;
+    border-radius: 3px;
+    transition: width .35s ease-in-out;
+    text-align: center;
+}
